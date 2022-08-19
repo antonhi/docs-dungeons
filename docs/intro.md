@@ -2,17 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Installation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Installation instructions to get Dungeons running on your server.
 
-## Getting Started
+## What you'll need
 
-Get started by **creating a new site**.
+- [Spigot](https://getbukkit.org/download/spigot) or [Paper](https://papermc.io/downloads) Minecraft server
+- MC-Market Account
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Download Dungeons
 
-### What you'll need
+Get started by **downloading the most recent JAR file** from the **[product page](https://builtbybit.com/resources/dungeons-custom-lootchests-custom-bosses-custom-loadouts-instanced-generation-1-13-1-19-2.16339/)**.
+
+## What you'll need
 
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
